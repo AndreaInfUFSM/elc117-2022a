@@ -19,7 +19,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td><ul>
 <li>Fundamentos de linguagens de programação funcional.</li>
 <li> Introdução a funções em linguagem Haskell.</li>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -28,7 +27,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>18/04/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -37,7 +35,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>20/04/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -46,7 +43,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>25/04/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -55,7 +51,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>27/04/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -64,7 +59,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>02/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -73,7 +67,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>04/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -82,7 +75,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>09/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -91,7 +83,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>11/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -100,7 +91,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>16/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -109,7 +99,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>18/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -118,7 +107,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>23/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -127,7 +115,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>25/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -136,7 +123,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>30/05/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -145,7 +131,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>01/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -154,7 +139,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>06/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -163,7 +147,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>08/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -172,7 +155,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>13/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -181,7 +163,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>15/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -190,7 +171,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>20/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -199,7 +179,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>22/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -208,7 +187,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>27/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -217,7 +195,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>29/06/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -226,7 +203,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>04/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -235,7 +211,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>06/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -244,7 +219,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>11/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -253,7 +227,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>13/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -262,7 +235,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>18/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -271,7 +243,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>20/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -280,7 +251,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>25/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 
@@ -289,7 +259,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td>27/07/2022</td>
 <td></td>
 <td><ul>
-<li>.</li>
 </ul></td>
 </tr>
 </tbody></table>
