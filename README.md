@@ -9,7 +9,6 @@ ELC117 - Paradigmas de Programação - UFSM - 2022a
 <td><ul>
 <li>Apresentação do programa da disciplina e do plano de ensino.</li>
 <li> Visão geral dos paradigmas de programação.</li>
-<li>.</li>
 </ul></td>
 </tr>
 
