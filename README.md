@@ -13,7 +13,7 @@ Plataformas: GitHub e Discord
 ## Sobre a disciplina
  - [Ementário](https://www.ufsm.br/ementario/disciplinas/ELC117): informações institucionais sobre objetivos, programa e bibliografia.
  - As aulas serão presenciais, com registro de frequência. Entre as aulas, usaremos Discord para comunicação síncrona/assíncrona por chat/áudio. 
- - Usaremos metodologias ativas de aprendizado, incluindo práticas com resolução de problemas, projetos de programação e, sempre que aplicável, uma estratégia de "sala de aula invertida", com consulta de material antes da aula (assincronamente) e encontros presenciais para práticas orientadas e solução de dúvidas.
+ - Usaremos metodologias ativas de aprendizado, incluindo práticas com resolução de problemas, projetos de programação e uma estratégia de "sala de aula invertida", com consulta de material antes da aula (assincronamente) e encontros presenciais para práticas orientadas e solução de dúvidas.
  - O material teórico de cada aula será disponibilizado com antecedência em formatos variados (slides, vídeos, programas, textos, etc.).
  - Todo o material da disciplina estará no GitHub e as entregas de exercícios be trabalhos também serão no GitHub. 
 
