@@ -33,7 +33,8 @@ O material para cada aula será disponibilizado **antes da aula** para consulta 
 <td><ul>
 <li>Apresentação do programa da disciplina e do plano de ensino.</li>
 <li> 
-Visão geral dos paradigmas de programação (vídeo | slides).</li>
+Visão geral dos paradigmas de programação (
+  <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">slides</a>).</li>
 </ul></td>
 </tr>
 
