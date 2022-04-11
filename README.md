@@ -42,9 +42,15 @@ Visão geral dos paradigmas de programação (<a href="https://docs.google.com/p
 <td>13/04/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Fundamentos de linguagens de programação funcional (vídeo | slides).</li>
-<li> 
-Introdução a funções em linguagem Haskell (vídeo | slides).</li>
+<li>
+Fundamentos de linguagens de programação funcional  
+ (<a href="https://docs.google.com/presentation/d/1Qv8AQYNHFgqlsV_n-YUZqXSIDw-grLqv2K7U4gbXlBg/edit?usp=sharing">slides</a>).
+</li>
+ 
+<li>
+ Introdução a funções em linguagem Haskell 
+ (<a href="https://docs.google.com/presentation/d/1OlYRsSYKEnajy7ZhBVh-H6H-HcJkLodAlRgIGf7N55E/edit?usp=sharing">slides</a>).
+</li>
 </ul></td>
 </tr>
 
