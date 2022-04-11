@@ -7,7 +7,7 @@
 Primeiro semestre de 2022  
 Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br)  
 Horários: segundas e quartas, das 14:30 às 16:30  
-Salas de aula: 368 e 334  
+Salas de aula: 258 e 334  
 Plataformas: GitHub e Discord   
 
 ## Sobre a disciplina
