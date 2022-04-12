@@ -51,7 +51,8 @@ Fundamentos de linguagens de programação funcional
  Introdução a funções em linguagem Haskell 
  (<a href="https://docs.google.com/presentation/d/1OlYRsSYKEnajy7ZhBVh-H6H-HcJkLodAlRgIGf7N55E/edit?usp=sharing">slides</a>).
 </li>
-</ul></td>
+</ul>
+</td>
 </tr>
 
 <tr>
