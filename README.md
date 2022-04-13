@@ -44,7 +44,7 @@ Visão geral dos paradigmas de programação (<a href="https://docs.google.com/p
 <td><ul>
 <li>
 Fundamentos de linguagens de programação funcional  
- (<a href="https://docs.google.com/presentation/d/1Qv8AQYNHFgqlsV_n-YUZqXSIDw-grLqv2K7U4gbXlBg/edit?usp=sharing">slides</a>).
+ (<a href="https://docs.google.com/presentation/d/1XHWeMVF8-xRV4Kd3wA9Kugdqrcni9W7lWzREArbOnrs/edit?usp=sharing">slides</a>).
 </li>
  
 <li>
