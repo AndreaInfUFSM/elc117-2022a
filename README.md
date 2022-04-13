@@ -49,7 +49,7 @@ Fundamentos de linguagens de programação funcional
  
 <li>
  Introdução a funções em linguagem Haskell 
- (<a href="https://docs.google.com/presentation/d/1OlYRsSYKEnajy7ZhBVh-H6H-HcJkLodAlRgIGf7N55E/edit?usp=sharing">slides</a>).
+ (<a href="https://docs.google.com/presentation/d/1wEzPuWgxFD2b0etEuB6beN6uTX5Ofg_EiGWm19nzKlQ/edit?usp=sharing">slides</a>).
 </li>
 </ul>
 </td>
@@ -60,7 +60,7 @@ Fundamentos de linguagens de programação funcional
 <td>18/04/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Primeira prática com Haskell.</li>
+<li><a href="praticas/haskell/haskell01">Primeira prática com Haskell</a>.</li>
 </ul></td>
 </tr>
 
