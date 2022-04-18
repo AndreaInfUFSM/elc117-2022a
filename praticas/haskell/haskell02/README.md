@@ -88,7 +88,7 @@ Entregue estes exercícios no arquivo `haskell02.hs`.
 
 2. Escreva uma função `comFebre' :: [Float] -> [Float]` que resolva a questão anterior usando lambda.
 
-3. Crie uma função `itemize :: [String] -> [String]` que receba uma lista de strings e adicione tags HTML `<li>` e `</ li>` antes e depois de cada string. Resolva esta questão usando lambda.
+3. Crie uma função `itemize :: [String] -> [String]` que receba uma lista de strings e adicione tags HTML `<li>` e `</li>` antes e depois de cada string. Resolva esta questão usando lambda.
 
 4. Escreva uma função `bigCircles :: Float -> [Float] -> [Float]` que receba um número e uma lista de raios de círculos. Essa função deverá retornar somente aqueles raios de círculos cuja área seja maior que o número passado como argumento.
 
