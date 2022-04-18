@@ -69,9 +69,17 @@ Fundamentos de linguagens de programação funcional
 <td>20/04/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação funcional: funções de alta ordem (slides | vídeo) e funções anônimas (lambda) (slides | vídeo).</li>
+<li>
+Programação funcional: 
+funções de alta ordem 
+(<a href="https://docs.google.com/presentation/d/1BClOOK2cHGd0Q3pXmTd8x5hgXq-hSsxXy1-B_Z3vl8w/edit?usp=sharing">slides</a>) e
+funções anônimas (lambda)
+(<a href="https://docs.google.com/presentation/d/127bdelIdlXGHR8tgfBUyL8sadVLEK0aB_wVCMkVhlTs/edit?usp=sharing">slides</a>). 
+ 
+ 
+</li>
 <li> 
-Segunda prática com Haskell.</li>
+<a href="praticas/haskell/haskell02">Segunda prática com Haskell</a>.</li>
 </ul></td>
 </tr>
 
