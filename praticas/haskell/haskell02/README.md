@@ -4,7 +4,7 @@
 ## Objetivos 
 
 
-Nesta aula, vamos trabalhar com **funções de alta ordem** e com **funções anônimas**, que são recursos típicos da programação funcional. Antes desta prática, veja no [repositório da disciplina](../../) o material sobre esses assuntos.
+Nesta aula, vamos trabalhar com **funções de alta ordem** e com **funções anônimas**, que são recursos típicos da programação funcional. Antes desta prática, veja no [repositório da disciplina](../../..) o material sobre esses assuntos.
 
 
 
