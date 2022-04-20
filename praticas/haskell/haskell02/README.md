@@ -10,7 +10,7 @@ Nesta aula, vamos trabalhar com **funções de alta ordem** e com **funções an
 
 ## Repositório de Entrega
 
-Você vai continuar entregando seus exercícios no GitHub, como na primeira prática, só em outro repositório.
+Você vai continuar entregando seus exercícios no GitHub, como na primeira prática, só que em outro repositório.
 
 Clique aqui para criar seu repositório desta prática de Haskell: https://classroom.github.com/a/KfpU0sbj
 
@@ -100,7 +100,23 @@ Entregue estes exercícios no arquivo `haskell02.hs`.
 
 8. Escreva uma função `onlyShorts :: [String] -> [String]` que receba uma lista de strings e retorne outra lista contendo somente as strings cujo tamanho seja menor que 5.
 
+## Alterando um Programa
 
+
+Agora vamos trabalhar com um programa em Haskell que gera uma imagem em formato SVG, com 2 círculos (veja a sintaxe para definir um [círculo em SVG](https://www.w3schools.com/graphics/svg_circle.asp)). 
+Você vai modificar um código fornecido para gerar uma imagem diferente.
+
+1. Abra o programa [svgSimple.hs](haskell02svg/svgSimple.hs) que está no repositório da disciplina.
+
+2. Execute o programa abrindo-o no GHCi e veja que ele cria um arquivo `circles.svg`. Clique neste arquivo para ver a figura gerada (isso deve abrir o navegador ou um programa de visualização de imagens).
+
+3. Analise o código do programa e identifique os recursos de Haskell que você já conhece e as novidades que apareceram. 
+
+4. Identifique as linhas de código que criam círculos com diferentes características.
+
+5. Modifique o código para gerar uma imagem diferente, com vários círculos com outras características. Confira a sintaxe para definir um [círculo em SVG](https://www.w3schools.com/graphics/svg_circle.asp).
+
+6. Entregue o arquivo `svgSimple.hs` modificado e a figura `circles.svg` gerada pelo seu programa. 
 
 ## Para saber mais sobre Haskell
 
