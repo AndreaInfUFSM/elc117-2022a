@@ -106,7 +106,7 @@ Entregue estes exercícios no arquivo `haskell02.hs`.
 Agora vamos trabalhar com um programa em Haskell que gera uma imagem em formato SVG, com 2 círculos (veja a sintaxe para definir um [círculo em SVG](https://www.w3schools.com/graphics/svg_circle.asp)). 
 Você vai modificar um código fornecido para gerar uma imagem diferente.
 
-1. Abra o programa [svgSimple.hs](haskell02svg/svgSimple.hs) que está no repositório da disciplina.
+1. Abra o programa [svgSimple.hs](haskell02svg/svgSimple.hs) que está no repositório da disciplina. Este arquivo também está no [Repl.it](https://replit.com/@AndreaSchwertne/haskell02svg).
 
 2. Execute o programa abrindo-o no GHCi e veja que ele cria um arquivo `circles.svg`. Clique neste arquivo para ver a figura gerada (isso deve abrir o navegador ou um programa de visualização de imagens).
 
