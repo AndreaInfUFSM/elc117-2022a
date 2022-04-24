@@ -23,6 +23,7 @@ Clique aqui para criar seu repositório desta prática de Haskell: https://class
 
 ## Aquecimento
 
+![Aquecimento](aquecimento.png)
 
 Estes exercícios não precisam ser entregues. São apenas um aquecimento.
 
