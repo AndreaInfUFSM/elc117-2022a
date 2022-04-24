@@ -4,7 +4,7 @@
 ## Objetivos
 
 
-Nesta aula, vamos exercitar mais facilidades de Haskell para manipulação de listas, mas reforçando tudo que já foi visto até agora. Em especial, vamos usar *list comprehension*. 
+Nesta aula, vamos exercitar mais facilidades de Haskell para manipulação de listas, também reforçando tudo que já foi visto até agora. Em especial, vamos usar *list comprehension*. 
 
 
 ## Pré-Requisitos 
