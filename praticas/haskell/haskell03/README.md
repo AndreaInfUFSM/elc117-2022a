@@ -4,12 +4,10 @@
 ## Objetivos
 
 
-Nesta aula, vamos exercitar mais facilidades de Haskell para manipulação de listas, também reforçando tudo que já foi visto até agora. Em especial, vamos usar *list comprehension*. 
+Nesta aula, vamos exercitar mais facilidades de Haskell para manipulação de listas, também reforçando tudo que já foi visto até agora. Em especial, vamos usar *list comprehension*. Antes desta prática, veja o material sobre geração de listas e list comprehension no [repositório da disciplina](../../../README.md).
 
 
-## Pré-Requisitos 
 
-Antes desta prática, veja o material sobre geração de listas e list comprehension no [repositório da disciplina](../../../README.md).
 
 ## Repositório de Entrega
 
@@ -44,6 +42,9 @@ Estes exercícios não precisam ser entregues. São apenas um aquecimento.
    
 
 ## Exercícios de Programação 
+
+![Programe](programe.png)
+
 
 Entregue todos os exercícios abaixo num arquivo nomeado `haskell03.hs`.
 
