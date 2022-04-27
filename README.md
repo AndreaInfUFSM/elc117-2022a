@@ -103,7 +103,7 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td><ul>
 <li>Programação funcional: geração de listas e list comprehension (material das aulas anteriores).</li>
 <li> 
-Quarta prática com Haskell.</li>
+<a href="praticas/haskell/haskell04">Quarta prática com Haskell</a>.</li>
 </ul></td>
 </tr>
 
