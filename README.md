@@ -112,9 +112,9 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>02/05/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação funcional: uso de let/in, where e I/O (slides | vídeo).</li>
+<li>Programação funcional: uso de let/in, where e I/O (<a href="https://docs.google.com/presentation/d/19RYxn-5027UPJQ-kEYTXmbC84NSXGx0e2vwnNmH64Lc/edit?usp=sharing">slides</a>).</li>
 <li> 
-Quinta prática com Haskell.</li>
+<a href="praticas/haskell/haskell05">Quinta prática com Haskell</a>.</li>
 </ul></td>
 </tr>
 
