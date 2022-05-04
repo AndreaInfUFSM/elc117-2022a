@@ -10,7 +10,7 @@ Nesta aula prática com Haskell, nosso objetivo é usar **recursão** e **patter
 ## Repositório de Entrega 
 
 
-Clique aqui para criar seu repositório desta prática de Haskell: https://classroom.github.com/a/kMtlvA55
+Clique aqui para criar seu repositório desta prática de Haskell: https://classroom.github.com/a/2j2jj9hR
 
 
 
