@@ -123,10 +123,10 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>04/05/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação funcional: condicionais, recursividade e pattern matching (slides | vídeo).</li>
-<li> Mais exemplos (slides | vídeo).</li>
+<li>Programação funcional: condicionais, recursividade e pattern matching (<a href="https://docs.google.com/presentation/d/1Y_w9HEL2SDlXXsZ_indKwZN1YxNeKRVrhRo8ERYt2pk/edit?usp=sharing">slides</a>).</li>
+<li> Mais exemplos (<a href="https://docs.google.com/presentation/d/1yQnL00pN5V2iyCw0SuFR3D57g8jPuRQQj7uD-HMEsCY/edit?usp=sharing">slides</a>).</li>
 <li> 
-Sexta prática com Haskell.</li>
+<a href="praticas/haskell/haskell06">Sexta prática com Haskell</a>.</li>
 </ul></td>
 </tr>
 
