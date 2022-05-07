@@ -53,7 +53,7 @@ Seu objetivo neste trabalho é produzir um programa capaz de gerar imagens que s
 
 - Se você sentiu dificuldade nos exercícios, procure aproveitar este trabalho para exercitar um pouco mais o que já foi visto nas práticas e não se preocupe tanto em criar imagens com algoritmos complicados.
 
-- Se você realizou os exercícios sem maiores dificuldades, procure se desafiar e ir além do que já conhece. Neste caso, só tenha cuidado com o prazo, pois é fácil ficar só navegando em busca de ideias e acabar não atingindo os objetivos.
+- Se você realizou os exercícios sem maiores dificuldades, procure se desafiar e ir além do que já conhece. Você também pode conversar com a professora para adaptar alguns requisitos a seus interesses. Só tenha cuidado com o prazo, pois é fácil complicar o trabalho e acabar não atingindo os objetivos.
 
 - Desenvolva seu programa incrementalmente. Procure partir de alguma ideia simples e vá incrementando seu programa, desenvolvendo novas versões a cada vez. Faça commit e push com frequência no GitHub.
 
