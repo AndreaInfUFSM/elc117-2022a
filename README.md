@@ -136,7 +136,6 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>Seg</td>
 <td><ul>
 <li>Prática de revisão com Haskell.</li>
-<li> Continuação do desenvolvimento do trabalho.</li>
 </ul></td>
 </tr>
 
@@ -145,19 +144,34 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>11/05/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Entrega de trabalho de programação em Haskell (até o meio-dia).</li>
-<li> 
-Introdução à programação lógica (slides | vídeo).</li>
-<li> 
-Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (slides | vídeo).</li>
-<li> 
-Primeira prática com Prolog.</li>
+<li>Desenvolvimento do trabalho com Haskell.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">11</td>
 <td>16/05/2022</td>
+<td>Seg</td>
+<td><ul>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">12</td>
+<td>18/05/2022</td>
+<td>Qua</td>
+<td><ul>
+<li>Introdução à programação lógica (slides).</li>
+<li>
+Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (slides).</li>
+<li> 
+Primeira prática com Prolog.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">13</td>
+<td>23/05/2022</td>
 <td>Seg</td>
 <td><ul>
 <li>Programação lógica em Prolog: consultas e regras, listas e problemas de lógica.</li>
@@ -167,31 +181,13 @@ Segunda prática com Prolog.</li>
 </tr>
 
 <tr>
-<td align="right">12</td>
-<td>18/05/2022</td>
-<td>Qua</td>
-<td><ul>
-<li>Programação lógica em Prolog: listas, recursão, predicados recursivos (slides | vídeo).</li>
-<li> 
-Terceira prática com Prolog.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">13</td>
-<td>23/05/2022</td>
-<td>Seg</td>
-<td><ul>
-<li>Elaboração de trabalho avaliativo.</li>
-</ul></td>
-</tr>
-
-<tr>
 <td align="right">14</td>
 <td>25/05/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Elaboração de trabalho avaliativo.</li>
+<li>Programação lógica em Prolog: listas, recursão, predicados recursivos (slides).</li>
+<li>
+Terceira prática com Prolog.</li>
 </ul></td>
 </tr>
 
@@ -200,7 +196,7 @@ Terceira prática com Prolog.</li>
 <td>30/05/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Apresentação de trabalho avaliativo.</li>
+<li>Elaboração de trabalho avaliativo.</li>
 </ul></td>
 </tr>
 
@@ -209,9 +205,7 @@ Terceira prática com Prolog.</li>
 <td>01/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação orientada a objetos (slides | vídeo).</li>
-<li> 
-Primeira prática com Java.</li>
+<li>Elaboração de trabalho avaliativo.</li>
 </ul></td>
 </tr>
 
@@ -220,15 +214,35 @@ Primeira prática com Java.</li>
 <td>06/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (slides | vídeo).</li>
-<li> 
-Segunda prática com Java.</li>
+<li>Apresentação de trabalho avaliativo.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">18</td>
 <td>08/06/2022</td>
+<td>Qua</td>
+<td><ul>
+<li>Programação orientada a objetos (slides).</li>
+<li>
+Primeira prática com Java.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td>13/06/2022</td>
+<td>Seg</td>
+<td><ul>
+<li>Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (slides).</li>
+<li>
+Segunda prática com Java.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">20</td>
+<td>15/06/2022</td>
 <td>Qua</td>
 <td><ul>
 <li>Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, collections e interfaces gráficas.</li>
@@ -238,35 +252,13 @@ Terceira prática com Java.</li>
 </tr>
 
 <tr>
-<td align="right">19</td>
-<td>13/06/2022</td>
-<td>Seg</td>
-<td><ul>
-<li>Programação orientada a objetos: herança (slides | vídeo).</li>
-<li> 
-Quarta prática com Java.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">20</td>
-<td>15/06/2022</td>
-<td>Qua</td>
-<td><ul>
-<li>Programação orientada a objetos: polimorfismo (slides | vídeo).</li>
-<li> 
-Quinta prática com Java.</li>
-</ul></td>
-</tr>
-
-<tr>
 <td align="right">21</td>
 <td>20/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: classes abstratas e interfaces em Java (slides | vídeo).</li>
-<li> 
-Sexta prática com Java.</li>
+<li>Programação orientada a objetos: herança (slides).</li>
+<li>
+Quarta prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -275,11 +267,9 @@ Sexta prática com Java.</li>
 <td>22/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação concorrente (slides | vídeo).</li>
-<li> 
-Concorrência em Java (slides | vídeo).</li>
-<li> 
-Sétima prática com Java.</li>
+<li>Programação orientada a objetos: polimorfismo (slides).</li>
+<li>
+Quinta prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -288,9 +278,9 @@ Sétima prática com Java.</li>
 <td>27/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Problemas de programação concorrente: sincronização (slides | vídeo).</li>
-<li> 
-Oitava prática com Java.</li>
+<li>Programação orientada a objetos: classes abstratas e interfaces em Java (slides).</li>
+<li>
+Sexta prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -299,9 +289,11 @@ Oitava prática com Java.</li>
 <td>29/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Revisão de programação orientada a objetos e concorrente.</li>
-<li> 
-Deadline para tema do projeto final.</li>
+<li>Programação concorrente.</li>
+<li>
+Concorrência em Java.</li>
+<li>
+Sétima prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -310,7 +302,9 @@ Deadline para tema do projeto final.</li>
 <td>04/07/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Desenvolvimento do projeto final.</li>
+<li>Problemas de programação concorrente: sincronização (slides).</li>
+<li>
+Oitava prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -319,7 +313,9 @@ Deadline para tema do projeto final.</li>
 <td>06/07/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Desenvolvimento do projeto final.</li>
+<li>Revisão de programação orientada a objetos e concorrente.</li>
+<li> 
+Deadline para tema do projeto final.</li>
 </ul></td>
 </tr>
 
@@ -338,8 +334,6 @@ Deadline para tema do projeto final.</li>
 <td>Qua</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>
-Primeira entrega.</li>
 </ul></td>
 </tr>
 
@@ -349,6 +343,8 @@ Primeira entrega.</li>
 <td>Seg</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+<li>
+Primeira entrega.</li>
 </ul></td>
 </tr>
 
@@ -367,10 +363,20 @@ Primeira entrega.</li>
 <td>Seg</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">32</td>
+<td>27/07/2022</td>
+<td>Qua</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
 <li>
 Segunda entrega.</li>
 </ul></td>
 </tr>
+
 </tbody></table>
 
 
