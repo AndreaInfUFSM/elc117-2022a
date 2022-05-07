@@ -153,6 +153,7 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>16/05/2022</td>
 <td>Seg</td>
 <td><ul>
+ <li>Dia não letivo segundo Calendário UFSM 2022.</li>
 </ul></td>
 </tr>
 
