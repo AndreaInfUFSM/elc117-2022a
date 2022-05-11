@@ -135,7 +135,7 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>09/05/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Prática de revisão com Haskell.</li>
+ <li>Desenvolvimento do <a href="trabalhos/t1">trabalho</a> com Haskell.</li>
 </ul></td>
 </tr>
 
@@ -144,7 +144,8 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>11/05/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Desenvolvimento do trabalho com Haskell.</li>
+ <li><a href="https://docs.google.com/presentation/d/1DSHMe_zMCoGsZE3xV6v4VegWo6D50hIrRjHwjkzCskw/edit?usp=sharing">Revisão</a> de alguns exercícios em Haskell.</li> 
+ <li>Desenvolvimento do <a href="trabalhos/t1">trabalho</a> com Haskell.</li>
 </ul></td>
 </tr>
 
