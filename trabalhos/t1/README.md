@@ -21,9 +21,16 @@ Seu objetivo neste trabalho é produzir um programa capaz de gerar imagens que s
 
 1. Cada execução do programa deve gerar uma **imagem parametrizada** pela sua **largura** e por outras características à sua escolha (altura, cores, ou outros parâmetros de acordo com o algoritmo).
 
-2. A imagem de saída do programa deve ser no formato SVG, ou seja, uma imagem vetorial (estática ou até mesmo animada). Esse formato pode ser facilmente gerado com strings, o que facilita o trabalho a partir dos exemplos fornecidos nas aulas.
+2. Os parâmetros para a geração da imagem devem ser lidos da linha de comando e passados para as funções que implementam o algoritmo e produzem strings.
 
-3. Os parâmetros para a geração da imagem devem ser lidos da linha de comando e passados para as funções que implementam o algoritmo e produzem strings.
+3. O programa deve poder ser executado como em [lcgexample.hs](../../praticas/haskell/haskell06/lcgexample.hs), usando `runhaskell`, recebendo os argumentos e gerando na saída padrão as strings da imagem no formato SVG:
+   ```
+   user@host:~$ runhaskell lcgexample.hs 10 1 > /tmp/output.svg
+   ```
+
+5. O programa deve produzir na **saída padrão** uma imagem no formato SVG, ou seja, uma imagem vetorial (estática ou até mesmo animada). Esse formato pode ser facilmente gerado com strings, o que facilita o trabalho a partir dos exemplos fornecidos nas aulas. **Atenção!** A saída não deve ser em um arquivo, mas sim na saída padrão!
+
+
 
 4. A função principal do seu programa deve ficar dentro de um arquivo `Main.hs`.
 
