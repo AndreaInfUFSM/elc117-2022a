@@ -177,6 +177,7 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (<a href="https://docs.google.com/presentation/d/17a2rOkl8SQX-GEKGyfK-WtrR7lmLfjEtCMTfzZS3bQc/edit?usp=sharing">slides</a>).</li>
 <li> 
 <a href="praticas/prolog/prolog01">Primeira prática com Prolog.</a></li>
+ <li>Veja também: <a href="https://www.youtube.com/watch?v=74Ig_QKndvE">Documentário lançado em abril/2022, comemorativo de 50 anos de Prolog!</a> </li>
 </ul></td>
 </tr>
 
