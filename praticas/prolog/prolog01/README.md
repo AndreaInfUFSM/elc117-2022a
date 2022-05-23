@@ -127,7 +127,7 @@ Para outras práticas, você pode continuar usando o SWISH ou fazer download do 
       sum_list(List,S),
       length(List,L),
       M is S/L.
-  ```    
+   ```
 
 10. Complete este predicado para obter a quantidade de pessoas (representadas no programa) que moram na Europa:
     ```
