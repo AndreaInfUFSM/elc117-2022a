@@ -163,11 +163,7 @@ list comprehension (<a href="https://docs.google.com/presentation/d/1sXeHGzIfvDM
 <td>18/05/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Introdução à programação lógica (slides).</li>
-<li>
-Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (slides).</li>
-<li> 
-Primeira prática com Prolog.</li>
+<li>Aula suspensa devido à previsão de ciclone.</li>
 </ul></td>
 </tr>
 
@@ -176,9 +172,11 @@ Primeira prática com Prolog.</li>
 <td>23/05/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação lógica em Prolog: consultas e regras, listas e problemas de lógica.</li>
+<li>Introdução à programação lógica (<a href="https://docs.google.com/presentation/d/1ip-ghylBYx2mxy2jnyAyYRNm0a4qUIjm9Ntvgixl8wg/edit?usp=sharing" >slides</a>).</li>
+<li>
+Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (<a href="https://docs.google.com/presentation/d/17a2rOkl8SQX-GEKGyfK-WtrR7lmLfjEtCMTfzZS3bQc/edit?usp=sharing">slides</a>).</li>
 <li> 
-Segunda prática com Prolog.</li>
+<a href="praticas/prolog/prolog01">Primeira prática com Prolog.</a></li>
 </ul></td>
 </tr>
 
@@ -187,9 +185,9 @@ Segunda prática com Prolog.</li>
 <td>25/05/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação lógica em Prolog: listas, recursão, predicados recursivos (slides).</li>
-<li>
-Terceira prática com Prolog.</li>
+<li>Programação lógica em Prolog: consultas e regras, listas e problemas de lógica.</li>
+<li> 
+Segunda prática com Prolog.</li>
 </ul></td>
 </tr>
 
@@ -216,7 +214,7 @@ Terceira prática com Prolog.</li>
 <td>06/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Apresentação de trabalho avaliativo.</li>
+<li>Elaboração de trabalho avaliativo.</li>
 </ul></td>
 </tr>
 
@@ -225,9 +223,7 @@ Terceira prática com Prolog.</li>
 <td>08/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação orientada a objetos (slides).</li>
-<li>
-Primeira prática com Java.</li>
+<li>Apresentação de trabalho avaliativo.</li>
 </ul></td>
 </tr>
 
@@ -236,9 +232,9 @@ Primeira prática com Java.</li>
 <td>13/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (slides).</li>
+<li>Programação orientada a objetos (slides).</li>
 <li>
-Segunda prática com Java.</li>
+Primeira prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -247,9 +243,9 @@ Segunda prática com Java.</li>
 <td>15/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, collections e interfaces gráficas.</li>
+<li>Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (slides).</li>
 <li>
-Terceira prática com Java.</li>
+Segunda prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -258,9 +254,9 @@ Terceira prática com Java.</li>
 <td>20/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: herança (slides).</li>
+<li>Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, collections e interfaces gráficas.</li>
 <li>
-Quarta prática com Java.</li>
+Terceira prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -269,9 +265,9 @@ Quarta prática com Java.</li>
 <td>22/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação orientada a objetos: polimorfismo (slides).</li>
+<li>Programação orientada a objetos: herança (slides).</li>
 <li>
-Quinta prática com Java.</li>
+Quarta prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -280,9 +276,9 @@ Quinta prática com Java.</li>
 <td>27/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: classes abstratas e interfaces em Java (slides).</li>
+<li>Programação orientada a objetos: polimorfismo (slides).</li>
 <li>
-Sexta prática com Java.</li>
+Quinta prática com Java.</li>
 </ul></td>
 </tr>
 
@@ -290,6 +286,17 @@ Sexta prática com Java.</li>
 <td align="right">24</td>
 <td>29/06/2022</td>
 <td>Qua</td>
+<td><ul>
+<li>Programação orientada a objetos: classes abstratas e interfaces em Java (slides).</li>
+<li>
+Sexta prática com Java.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">25</td>
+<td>04/07/2022</td>
+<td>Seg</td>
 <td><ul>
 <li>Programação concorrente.</li>
 <li>
@@ -300,9 +307,9 @@ Sétima prática com Java.</li>
 </tr>
 
 <tr>
-<td align="right">25</td>
-<td>04/07/2022</td>
-<td>Seg</td>
+<td align="right">26</td>
+<td>06/07/2022</td>
+<td>Qua</td>
 <td><ul>
 <li>Problemas de programação concorrente: sincronização (slides).</li>
 <li>
@@ -311,22 +318,13 @@ Oitava prática com Java.</li>
 </tr>
 
 <tr>
-<td align="right">26</td>
-<td>06/07/2022</td>
-<td>Qua</td>
-<td><ul>
-<li>Revisão de programação orientada a objetos e concorrente.</li>
-<li> 
-Deadline para tema do projeto final.</li>
-</ul></td>
-</tr>
-
-<tr>
 <td align="right">27</td>
 <td>11/07/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Desenvolvimento do projeto final.</li>
+<li>Revisão de programação orientada a objetos e concorrente.</li>
+<li> 
+Deadline para tema do projeto final.</li>
 </ul></td>
 </tr>
 
@@ -345,8 +343,6 @@ Deadline para tema do projeto final.</li>
 <td>Seg</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>
-Primeira entrega.</li>
 </ul></td>
 </tr>
 
@@ -356,6 +352,8 @@ Primeira entrega.</li>
 <td>Qua</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+<li>
+Primeira entrega.</li>
 </ul></td>
 </tr>
 
@@ -374,10 +372,21 @@ Primeira entrega.</li>
 <td>Qua</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">33</td>
+<td>01/08/2022</td>
+<td>Seg</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
 <li>
 Segunda entrega.</li>
 </ul></td>
 </tr>
+
+
 
 </tbody></table>
 
