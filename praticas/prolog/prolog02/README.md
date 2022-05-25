@@ -86,7 +86,7 @@ Existem vários predicados pré-definidos que manipulam listas em Prolog, como j
 2. Você conhece um desafio que circula pela Internet chamado de Charada de Einstein (ou [Enigma de Einsten](https://super.abril.com.br/ideias/charada-atribuida-a-einsten-da-no-no-cerebro-e-vira-hit-na-web/))? Veja [aqui](Einstein.md) a descrição de um problema de lógica e sua resolução em Prolog. Estude o código da solução (o código usa os predicados `nextto` e `ao_lado`).
 
 
-3. Escreva um programa em Prolog para resolver o seguinte problema de lógica: "Angela, Bernardo e Carla são crianças premiadas em um show de talentos infantis. Suas idades são 5, 7 e 9 anos. Uma das crianças ganhou o 1o Lugar. A criança que ganhou o 2o Lugar é 2 anos mais velha que Angela. A criança que ganhou o 3o Lugar tem 7 anos. Carla é mais jovem que Bernardo.".
+3. Escreva um programa em Prolog para resolver o seguinte problema de lógica: *"Angela, Bernardo e Carla são crianças premiadas em um show de talentos infantis. Suas idades são 5, 7 e 9 anos. Uma das crianças ganhou o 1o Lugar. A criança que ganhou o 2o Lugar é 2 anos mais velha que Angela. A criança que ganhou o 3o Lugar tem 7 anos. Carla é mais jovem que Bernardo."*.
 
    A solução do problema deverá reunir todos os dados informados e deduzidos sobre as crianças. Seu programa deverá ter uma regra `solucao(Podio)` que permita obter a solução do problema na variável `Podio`.
 
