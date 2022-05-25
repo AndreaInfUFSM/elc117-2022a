@@ -188,7 +188,7 @@ Introdução à linguagem Prolog: fatos, regras, consultas e variáveis (<a href
 <td><ul>
 <li>Programação lógica em Prolog: consultas e regras, listas e problemas de lógica.</li>
 <li> 
-Segunda prática com Prolog.</li>
+<a href="praticas/prolog/prolog02">Segunda prática com Prolog.</a></li>
 </ul></td>
 </tr>
 
