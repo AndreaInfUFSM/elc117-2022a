@@ -93,7 +93,7 @@ Existem vários predicados pré-definidos que manipulam listas em Prolog, como j
 
 ## Criando enredos de filmes
 
-Baixe o programa [`storyfull.pl`](storyfull.pl), que gera enredos de filmes de ficção com alguma aleatoriedade :smile:.
+Baixe o programa [`prolog02-story.pl`](prolog02-story.pl), que gera enredos de filmes de ficção com alguma aleatoriedade :smile:.
 
 Para executar o programa, carregue-o no SWI-Prolog e digite a seguinte consulta (sem argumentos):
 ```
