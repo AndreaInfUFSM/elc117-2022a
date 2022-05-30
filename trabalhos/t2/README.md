@@ -31,20 +31,12 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
   5. Pesquisar/construir exemplos de uso dos predicados com listas (não necessariamente os da etapa anterior). Para os exemplos ficarem mais completos, vocês devem criar uma base de fatos e regras inspiradas em algum problema/contexto.
   6. Produzir material para apresentar o tema à turma, incluindo algum exercício proposto (roteiro de prática, quiz, etc.).
 
-  ### Entrega
 
-  O repositório de entrega deve conter:
-  - Códigos em Prolog (.pl) 
-  - README.md contendo:
-    - Textos/imagens/códigos explicativos
-    - Links para códigos no repositório e para outros materiais produzidos e hospedados externamente (slides, etc.)
-    - Exercício proposto (enunciado de prática, quiz, etc.)
-    - Referências consultadas (além do material de apoio)
-
-  Clique aqui para criar o repositório de entrega: https://classroom.github.com/a/7GZ0dz_K
   
   ### Material de apoio
-  https://www.swi-prolog.org/pldoc/man?section=lists
+
+  - [Biblioteca de predicados com listas do SWI-Prolog](https://www.swi-prolog.org/pldoc/man?section=lists)
+
 
 </details>
 
@@ -71,15 +63,6 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
   4. Elaborar um ou mais exemplos contendo recursão, condicionais e I/O. Podem ser pequenos exemplos simples (poucas linhas de código) ou um exemplo mais longo, inspirado em algum problema/contexto. Uma sugestão é incluir leitura/escrita de dados em arquivo.
   5. Produzir material para apresentar o tema à turma, incluindo algum exercício proposto (roteiro de prática, quiz, etc.).
 
-  ### Entrega
-
-  O repositório de entrega deve conter:
-  - Códigos em Prolog (.pl) 
-  - README.md contendo:
-    - Textos/imagens/códigos explicativos
-    - Links para códigos no repositório e material externo  (slides, etc.)
-    - Exercício (enunciado de prática, quiz, etc.)
-    - Referências consultadas (além do material de apoio)
 
   ### Material de apoio
 
@@ -112,16 +95,6 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
   2. Pesquisar outros exemplos e explicações relacionados ao tema, sempre guardando um registro das referências consultadas. 
   3. Elaborar/testar exemplos para ilustrar unificação, retrocesso e corte em diferentes situações. Por exemplo, é importante examinar versões de um predicado com e sem corte.
   4. Produzir material para apresentar o tema à turma, incluindo algum exercício proposto (roteiro de prática, quiz, etc.).
-
-  ### Entrega
-
-  O repositório de entrega deve conter:
-  - Códigos em Prolog (.pl) 
-  - README.md contendo:
-    - Textos/imagens/códigos explicativos
-    - Links para códigos no repositório e material externo (slides, etc.)
-    - Exercício (enunciado de prática, quiz, etc.)
-    - Referências consultadas (além do material de apoio)
 
 
   
@@ -275,6 +248,12 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
     - Links para códigos no repositório e para outros materiais produzidos por vocês e hospedados externamente (slides, etc.)
     - Exercício proposto (enunciado de prática, quiz, etc.)
     - Referências consultadas (além do material de apoio)
+
+  Clique aqui para criar o repositório de entrega: https://classroom.github.com/a/7GZ0dz_K
+
+## Apresentação
+
+  A dupla terá 5-10min para apresentar o tema à turma. 
 
 ## Material de apoio
 
