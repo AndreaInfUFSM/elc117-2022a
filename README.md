@@ -396,7 +396,7 @@ Segunda entrega.</li>
  - Primeiro bimestre  
    - Práticas entregues no GitHub (20%)  
    - [Trabalho de programação funcional em Haskell](trabalhos/t1) (40%)  
-   - Apresentação de trabalho sobre Prolog (20%)  
+   - [Apresentação de trabalho sobre Prolog](trabalhos/t2) (20%)  
    - Atividade avaliativa personalizada (20%)
  - Segundo bimestre  
    - Práticas entregues no GitHub (20%)  
