@@ -229,7 +229,7 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
   ### Material de apoio
 
 
-  - [P-99: Ninety-Nine Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
+  - [P-99: Ninety-Nine Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-prolog/)
   - [Collection of misc Prolog programs]
   (https://github.com/charlesjlee/prolog)
   - [Eliza Chatbot in Prolog](https://swish.swi-prolog.org/example/eliza.pl)
