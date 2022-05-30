@@ -41,6 +41,8 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
     - Exercício proposto (enunciado de prática, quiz, etc.)
     - Referências consultadas (além do material de apoio)
 
+  Clique aqui para criar o repositório de entrega: https://classroom.github.com/a/7GZ0dz_K
+  
   ### Material de apoio
   https://www.swi-prolog.org/pldoc/man?section=lists
 
