@@ -1,4 +1,4 @@
-
+![corujas](corujas.png)
 # Trabalho 2: Desbravando Prolog!
 
 Neste trabalho, vocês trabalharão em duplas para aprofundar o que conhecem sobre Prolog. 
