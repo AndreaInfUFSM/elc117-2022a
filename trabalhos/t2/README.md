@@ -43,6 +43,8 @@ Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_che
 
 ---
 ## Tema 2: Recursão, condicionais e I/O em Prolog
+Dupla: [João Carlos e Raul](https://github.com/elc117/t2-2022a-joaozucchi_raul)
+
 <details>
   <summary>Clique para ver detalhes!</summary>
   
@@ -78,6 +80,8 @@ Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_che
 
 ---
 ## Tema 3: Processo de execução de programas Prolog
+Dupla: [Lucas e Henrique](https://github.com/elc117/t2-2022a-lucas_henrique) e [Luana e Roberto](https://github.com/elc117/t2-2022a-luana_roberto)
+
 <details>
   <summary>Clique para ver detalhes!</summary>
   
@@ -110,6 +114,9 @@ Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_che
 
 ---
 ## Tema 4: Árvores genealógicas em Prolog
+
+Dupla: [Gilson e Eduardo F.](https://github.com/elc117/t2-2022a-eduardo_gilson)
+
 <details>
   <summary>Clique para ver detalhes!</summary>
   
@@ -145,6 +152,9 @@ Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_che
 
 ---
 ## Tema 5: Problemas de lógica em Prolog
+
+Duplas: [Alice e Ivan](https://github.com/elc117/t2-2022a-alice_e_ivan), [André e Miguel]() e [Alfredo e Pedro Henrique](https://github.com/elc117/t2-2022a-alfredo_e_pedro-h)
+
 <details>
   <summary>Clique para ver detalhes!</summary>
   
@@ -174,6 +184,8 @@ Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_che
 
 ---
 ## Tema 6: Aplicações Web em Prolog
+Dupla: [Flavio e Gregori](https://github.com/elc117/t2-2022a-flavio_gregori)
+
 <details>
   <summary>Clique para ver detalhes!</summary>
   
@@ -205,6 +217,8 @@ Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_che
 
 ---
 ## Tema 7: Outras aplicações de Prolog
+
+Duplas: [Yuri e Eduardo M.](https://github.com/elc117/t2-2022a-yuri_eduardom), [Mauro e Ramon](https://github.com/elc117/t2-2022a-mauro_ramon) e [Matheus e Jhuan](https://github.com/elc117/t2-2022a-matheus_jhuan)
 <details>
   <summary>Clique para ver detalhes!</summary>
   
