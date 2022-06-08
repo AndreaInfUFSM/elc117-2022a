@@ -8,6 +8,7 @@ Cada dupla vai trabalhar em um tema, produzir material sobre ele e depois aprese
 
 ---
 ## Tema 1: Listas e recursão em Prolog
+Dupla: [Luís Henrique e João Davi](https://github.com/elc117/t2-2022a-luis_chesani_joao_davi)
 <details>
   <summary>Clique para ver detalhes!</summary>
   
