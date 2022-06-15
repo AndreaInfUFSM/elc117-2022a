@@ -28,7 +28,7 @@ Você também pode começar usando o ambiente de desenvolvimento Java disponíve
    ```
    java -cp . OlaMundo
    ```
-   Obs.: Se algo der errado e você estiver usando Windows, veja esta [página da Oracle](https://docs.oracle.com/javase/tutorial/getStarted/problems/index.html) sobre problemas comuns e suas soluções. 
+   Obs.: Se algo der errado e você estiver usando Windows, veja esta [página da Oracle](https://docs.oracle.com/javase/tutorial/getStarted/problems/index.html) sobre problemas comuns e suas soluções. A página é antiga, mas muitos problemas persistem há décadas: smiley:.
 
 
 4. Baixe o programa [Circle.java](src/Circle.java) e analise seu código. Você consegue prever a saída deste programa antes de executá-lo?
