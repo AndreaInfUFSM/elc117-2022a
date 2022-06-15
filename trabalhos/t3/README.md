@@ -49,8 +49,8 @@ Se você achou os requisitos muito amplos e está estranhando ter tanta liberdad
 
 - Até dia 15/06, você deve comunicar à professora o tema e o prazo escolhido (1, 2 ou mais semanas), de acordo com o grau de dificuldade estimado. 
 - Trabalhos em dupla devem ter motivação e resultados compatíveis (evidências de que não foi só uma pessoa que trabalhou).
+- O repositório de entrega será público e deverá conter pelo menos um `README.md` estruturado em seções, descrevendo suas motivações e os resultados do trabalho, que podem ficar hospedados no próprio GitHub ou em serviços externos (p.ex. Google Drive, YouTube, Medium, etc.).
 - Clique aqui para criar o repositório de entrega: https://classroom.github.com/a/QmfmXz0n
-- O repositório de entrega será público e deverá conter pelo menos um `README.md` estruturado em seções, descrevendo suas motivações e os resultados do trabalho, que podem ficar hospedados no próprio GitHub em serviços externos (p.ex. Google Drive, YouTube, Medium, etc.).
 
 
 
