@@ -269,9 +269,13 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 <td>22/06/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, collections e interfaces gráficas.</li>
 <li>
-Terceira prática com Java.</li>
+Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList. Veja <a href="https://docs.google.com/presentation/d/1fdbKfM4GmvfZxQVXi_5fBL7HetkdCx74z-Ih0vjmQZw/edit?usp=sharing">slides</a> sobre uso de static.
+</li>
+<li>
+ <a href="praticas/java/java03">Terceira prática com Java</a>.
+</li>
+
 </ul></td>
 </tr>
 
