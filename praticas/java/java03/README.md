@@ -76,7 +76,7 @@ Vamos partir de um exemplo simples com Swing para depois modificá-lo e usá-lo 
 
 3. Neste outro [repl.it](https://repl.it/@AndreaSchwertne/java03swinguser) há uma versão modificada do exemplo anterior, agora com um campo de texto (`JTextField`) além do botão. Execute o código que está em `Main.java`, preencha o campo de texto e clique no botão para ver o que acontece.
 
-4. Veja que neste repl.it há mais arquivos. Em `NewMain.java`, temos um código que usa a classe `User` dos exercícios anteriores. Com poucas linhas a mais, o código cria um novo objeto `User` e o adiciona em uma lista, a cada vez que o botão é clicado. A lista é da classe `ArrayList`. Veja mais sobre isso aqui: https://www.caelum.com.br/apostila-java-orientacao-objetos/collections-framework/#listas-javautillist
+4. Veja que neste repl.it há mais arquivos. Em `NewMain.java`, temos um código que usa a classe `User` dos exercícios anteriores. Com poucas linhas a mais, o código cria um novo objeto `User` e o adiciona em uma lista, a cada vez que o botão é clicado. A lista é da classe `ArrayList`. Veja mais sobre isso aqui: https://www.alura.com.br/apostila-java-orientacao-objetos/collections-framework
 
 5. Veja que tanto `NewMain.java` como `Main.java` possuem um método `main`. No repl.it (e em muitos IDEs), o botão/comando para execução de um projeto Java é vinculado a uma classe default (no repl.it é a classe Main). Isso é uma convenção do IDE, não da linguagem. No repl.it, para executar a classe `NewMain`, basta usar o Shell (não a Console) e usar os seguintes comandos: 
    ```
