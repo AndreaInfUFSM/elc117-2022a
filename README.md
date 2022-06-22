@@ -270,7 +270,7 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 <td>Qua</td>
 <td><ul>
 <li>
-Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList. Veja <a href="https://docs.google.com/presentation/d/1fdbKfM4GmvfZxQVXi_5fBL7HetkdCx74z-Ih0vjmQZw/edit?usp=sharing">slides</a> sobre uso de static.
+Programação orientada a objetos: classes, objetos, métodos, atributos, uso de static, uso de this, Swing e ArrayList. Veja <a href="https://docs.google.com/presentation/d/1Yy8aXMeraC5IYnzH-YM9GuOg0FXageRMwlzdUKydB4I/edit?usp=sharing">slides</a> sobre uso de static.
 </li>
 <li>
  <a href="praticas/java/java03">Terceira prática com Java</a>.
