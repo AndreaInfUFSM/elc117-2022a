@@ -6,7 +6,7 @@ Nesta prática você vai exercitar conceitos de encapsulamento, classes e objeto
 
 ## Pré-requisitos
 
-Consulte estes [slides](https://docs.google.com/presentation/d/1fdbKfM4GmvfZxQVXi_5fBL7HetkdCx74z-Ih0vjmQZw/edit?usp=sharing) sobre uso de `static` antes desta prática.
+Consulte estes [slides](https://docs.google.com/presentation/d/1Yy8aXMeraC5IYnzH-YM9GuOg0FXageRMwlzdUKydB4I/edit?usp=sharing) sobre uso de `static` antes desta prática.
 
 ## Entrega
 
