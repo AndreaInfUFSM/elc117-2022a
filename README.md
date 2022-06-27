@@ -284,9 +284,10 @@ Programação orientada a objetos: classes, objetos, métodos, atributos, uso de
 <td>27/06/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: herança (slides | vídeo).</li>
-<li> 
-Quarta prática com Java.</li>
+<li>Programação orientada a objetos: herança (<a href="https://docs.google.com/presentation/d/17mn_CtmAb2PVita0lcaveXE0T7ojU2IHTMUn-f47PBE/edit?usp=sharing">slides</a>).</li>
+<li>
+ <a href="praticas/java/java04">Quarta prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 
