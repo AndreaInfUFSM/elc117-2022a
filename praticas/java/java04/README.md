@@ -6,14 +6,14 @@ Nesta prática você vai exercitar conceitos relacionados a herança em Java, ao
 
 ## Pré-requisitos
 
-Consulte os slides sobre herança antes desta prática.
+Consulte os [slides sobre herança](https://docs.google.com/presentation/d/17mn_CtmAb2PVita0lcaveXE0T7ojU2IHTMUn-f47PBE/edit?usp=sharing) antes desta prática.
 
 
 ## Entrega
 
 Esta prática vai ser entregue em um repositório específico no GitHub Classroom. Clique [aqui](https://classroom.github.com/a/umZS6jfv) para criá-lo. 
 
-Somente a Parte 1 será entregue no repositório. As outras partes são para você pensar sobre conceitos e suas aplicações.
+:warning: Somente a Parte 1 será entregue no repositório. As outras partes são para você pensar sobre conceitos e suas aplicações.
 
 ## Parte 1: Compartilhe código
 
