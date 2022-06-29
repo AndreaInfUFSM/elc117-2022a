@@ -297,8 +297,9 @@ Programação orientada a objetos: classes, objetos, métodos, atributos, uso de
 <td>Qua</td>
 <td><ul>
 <li>Programação orientada a objetos: polimorfismo  (<a href="https://docs.google.com/presentation/d/1Tt6vUSIjWtfty1bZdmYqYShlZ_lqIXYfn9MuYiOcb8U/edit?usp=sharing">slides</a>).</li>
-<li> 
-Quinta prática com Java.</li>
+<li>
+ <a href="praticas/java/java05">Quinta prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 
