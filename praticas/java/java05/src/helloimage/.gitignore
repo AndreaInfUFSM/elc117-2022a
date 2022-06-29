@@ -1,0 +1,25 @@
+.gitattributes
+# Java
+# ----
+*.class
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# VS Code
+#--------
+.vscode
+
+# Eclipse
+# -------
+*.classpath
+*.project
+*.settings
+/bin
+
+# IDEA
+# ----
+.idea
