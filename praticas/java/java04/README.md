@@ -65,7 +65,7 @@ Teste o jogo aqui: http://www.inf.ufsm.br/~andrea/libgdx/ (essa versão do jogo 
 
 
 Abra os 2 arquivos que contêm o código do jogo simples para desktop:
-   - [desktop/src/com/badlogic/drop/desktop/DesktopLauncher.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/desktop/src/com/badlogic/drop/desktop/DesktopLauncher.java) 
+   - [desktop/src/com/badlogic/drop/DesktopLauncher.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/desktop/src/com/badlogic/drop/DesktopLauncher.java) 
    - [core/src/com/badlogic/drop/Drop.java](https://github.com/AndreaInfUFSM/java-libgdx-simple-drop-example/blob/master/core/src/com/badlogic/drop/Drop.java)
 
 Examine os códigos e responda às questões abaixo:
