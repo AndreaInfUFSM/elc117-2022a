@@ -27,7 +27,16 @@ Esta prática requer que você examine 3 repositórios que contêm exemplos de u
 
 - [java-libgdx-extended-drop-example](https://github.com/AndreaInfUFSM/java-libgdx-extended-drop-example): versão melhorada do jogo anterior, conforme descrito na seção [Extending the Simple Game](https://libgdx.com/wiki/start/simple-game-extended) do [Wiki](https://libgdx.com/wiki/) da libGDX
 
-Todos os projetos usam Gradle para gerenciar dependências, compilar e executar os códigos. As instruções para execução estão nos README dos repositórios.
+Todos os projetos usam Gradle para gerenciar dependências, compilar e executar os códigos. Você pode importar o projeto no seu IDE favorito com suporte a Gradle e/ou usar linha de comando.
+
+No Linux, execute dentro da pasta do projeto:
+```
+./gradlew desktop:run
+```
+No Windows, use:
+```
+.\gradlw.bat desktop:run
+```
 
 
 ## Alterando um projeto
