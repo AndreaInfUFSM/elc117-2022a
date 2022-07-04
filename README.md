@@ -308,9 +308,10 @@ Programação orientada a objetos: classes, objetos, métodos, atributos, uso de
 <td>04/07/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Programação orientada a objetos: classes abstratas e interfaces em Java (slides | vídeo).</li>
-<li> 
-Sexta prática com Java.</li>
+<li>Programação orientada a objetos: classes abstratas e interfaces em Java (<a href="https://docs.google.com/presentation/d/10YwDdDeV01SucPbewQR63c1pWgbkdLs1NM76psU8v98/edit?usp=sharing">slides</a>).</li>
+<li>
+ <a href="praticas/java/java06">Sexta prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 
