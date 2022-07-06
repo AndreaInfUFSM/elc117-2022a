@@ -320,11 +320,12 @@ Programação orientada a objetos: classes, objetos, métodos, atributos, uso de
 <td>06/07/2022</td>
 <td>Qua</td>
 <td><ul>
-<li>Programação concorrente (slides | vídeo).</li>
+<li>Programação concorrente (<a href="https://docs.google.com/presentation/d/1qQr7Z4zU-8rvCBOykYSwq0LegSGVs7hip8Yq9Ptyu7Q/edit?usp=sharing">slides</a>).</li>
 <li> 
-Concorrência em Java (slides | vídeo).</li>
-<li> 
-Sétima prática com Java.</li>
+Concorrência em Java (<a href="https://docs.google.com/presentation/d/1-Iov6eVFL5L2IzsxK0wT_RPjxCSDsgEf9d8wtXnErFI/edit?usp=sharing">slides</a>).</li>
+<li>
+ <a href="praticas/java/java07">Sétima prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 
