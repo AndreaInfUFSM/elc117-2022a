@@ -334,9 +334,11 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1-Iov6eVF
 <td>11/07/2022</td>
 <td>Seg</td>
 <td><ul>
-<li>Problemas de programação concorrente: sincronização (slides | vídeo).</li>
-<li> 
-Oitava prática com Java.</li>
+
+<li>Problemas de programação concorrente: sincronização (<a href="https://docs.google.com/presentation/d/1171OlQiGUxiISPuFaCIF-zHVFpr03_KUa74tyCpZ0sg/edit?usp=sharing">slides</a> | <a href="https://drive.google.com/file/d/1R4GQbVf_z3b8Rti-SM_ZrjBzI5poQZdD/view?usp=sharing">vídeo</a>).</li>
+<li>
+ <a href="praticas/java/java08">Oitava prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 

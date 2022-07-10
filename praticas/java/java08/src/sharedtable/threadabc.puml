@@ -1,0 +1,27 @@
+@startuml
+package  {
+  class ThreadABC {
+    - WriterCount : int {static}
+    - WriterChars : char {static}
+    + main(String[] args) : void {static}
+  }
+  class ArrayWriter {
+    - array : SharedArray
+    - count : int
+    - c : char
+    ~ ArrayWriter(SharedArray array, int count, char c)
+    + run() : void
+  }
+  class SharedArray {
+    - array : Character
+    - index : int
+    + SharedArray(int n)
+    + addChar(char c) : void
+    + countOccurrences(char c) : int
+    + oldCountOccurrences(char c) : int
+    - spendSomeTime() : void
+    + toString() : String
+  }
+}
+ArrayWriter --> SharedArray
+@enduml
