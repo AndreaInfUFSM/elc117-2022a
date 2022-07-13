@@ -404,9 +404,9 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1-Iov6eVF
    - [Atividade avaliativa personalizada](trabalhos/t3) (20%)
  - Segundo bimestre  
    - Práticas entregues no GitHub (20%)  
-   - Produção de vídeo (15%)  
-   - Projeto final de programação orientada a objetos (50%)   
-   - Atividade avaliativa personalizada (15%)  
+   - ~~Produção de vídeo (15%)~~  
+   - [Projeto final de programação orientada a objetos](trabalhos/t4) ~~(50%)~~ (60%)   
+   - Atividade avaliativa personalizada ~~(15%)~~  (20%)
  - Avaliação final (exame): 22/08/2022  
 
 
