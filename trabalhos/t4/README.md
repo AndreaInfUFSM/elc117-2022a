@@ -21,7 +21,7 @@ Neste trabalho, você vai criar um jogo no tema <...>, usando um framework orien
 
 4. O jogo deverá funcionar em desktop e em navegador web, usando as facilidades da LibGDX para aproveitar o mesmo código em diferentes plataformas.
 
-5. O jogo deverá ser disponibilizado no itch.io, em uma página de "game jam" que será criada pela professora. Aqui estão jams de outras turmas: [2021a](https://itch.io/jam/games-paradigmas-programacao-ufsm-2021a, https://itch.io/jam/), [2020a](games-paradigmas-programacao-ufsm-2020a)
+5. O jogo deverá ser disponibilizado no itch.io, em uma página de "game jam" que será criada pela professora. Aqui estão jams de outras turmas: [2021a](https://itch.io/jam/games-paradigmas-programacao-ufsm-2021a), [2020a](https://itch.io/jam/games-paradigmas-programacao-ufsm-2020a)
 
 
 ### Sobre o desenvolvimento
