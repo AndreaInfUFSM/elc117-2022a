@@ -66,10 +66,10 @@ Neste trabalho, você vai criar um jogo no tema <...>, usando um framework orien
 - [Lista de tutoriais e exemplos](https://github.com/libgdx/libgdx/wiki/External-tutorials)  
   Lista sugerida na Wiki da LibGDX
   
-- [Tutoriais LibGDX no site HappyCoding](https://happycoding.io/tutorials/libgdx/)
+- [Tutoriais LibGDX no site HappyCoding](https://happycoding.io/tutorials/libgdx/)  
   Vários tutoriais, organizados por assunto
   
-- [LibGDX Beginner Tutorial](https://www.codeandweb.com/texturepacker/tutorials/libgdx-physics)
+- [LibGDX Beginner Tutorial](https://www.codeandweb.com/texturepacker/tutorials/libgdx-physics)  
   Tutorial passo-a-passo com screenshots e código
   
 - [Criando Jogo estilo ZELDA com JAVA e LibGDX](https://www.youtube.com/watch?v=36mvpAn66Dc)  
