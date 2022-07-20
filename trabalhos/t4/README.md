@@ -48,7 +48,8 @@ Neste trabalho, você vai criar um jogo no tema <...>, usando um framework orien
 
 - Todo o código deverá ficar em um único repositório de entrega no GitHub. Clique neste link para criá-lo: https://classroom.github.com/a/3ZbDT2V4
 - Primeira entrega: 20/07/22 (entrega parcial, com funcionalidades testáveis em desktop e web)
-- Segunda entrega: 03/08/22 (entrega final)
+- Segunda entrega: 03/08/22 
+- Entrega final: dd/08/22
 
 
 ## Material de apoio
