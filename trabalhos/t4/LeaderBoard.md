@@ -43,7 +43,7 @@ https://script.google.com/macros/s/AKfycby_66cv7hxuwGnRYx2-kZDm4YvlWy0gXiHAgjsO2
 
 Para enviar a requisição a partir do código Java, usamos algumas classes para comunicação em rede da libGDX: https://libgdx.com/wiki/networking
 
-Este repositório tem um código de exemplo que envia uma requisição `postScore`: 
+Este repositório tem um código de exemplo que envia uma requisição `postScore`: [libgdx-httprequest-postscore](libgdx-httprequest-postscore)
 
 
 ### Como ler dados da planilha?
