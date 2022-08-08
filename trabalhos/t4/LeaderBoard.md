@@ -64,7 +64,7 @@ O resultado desta requisição contém apenas "dados brutos", ou seja, não é f
 
 Para ler dados a partir do código Java, usamos novamente as classes para comunicação em rede da libGDX (https://libgdx.com/wiki/networking) e também recursos para ler dados em formato JSON (https://libgdx.com/wiki/utils/reading-and-writing-json), que é o formato dos dados retornados pelo web service.
 
-Este repositório tem um código de exemplo que envia uma requisição `getScores`: 
+Este repositório tem um código de exemplo que envia uma requisição `getScores`: [libgdx-httprequest-getscores](libgdx-httprequest-getscores)
 
 ## 3.2 Criando um conjunto de classes reusáveis
 
