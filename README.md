@@ -379,7 +379,7 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1-Iov6eVF
 </tr>
 
 <tr>
-<td align="right">33</td>
+<td align="right">32</td>
 <td>27/07/2022</td>
 <td>Qua</td>
 <td><ul>
